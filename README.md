@@ -18,3 +18,6 @@ Welcome to my profile! I'm a student who loves coding and learning new things. C
   <h2> Looking to grow my contributions 🐍 </h2>
   <img alt="snake eating my contributions" src="https://github.com/CodingCZR/CodingCZR/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
