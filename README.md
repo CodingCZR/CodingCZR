@@ -1,7 +1,9 @@
 <h1 align="center">Hello, I'm Cesar Miranda 😎 </h1>
-<h2 align="center"> 🏜️ From the Valley of the Sun (Phoenix, Arizona) 🏜️</h2>
 
-Welcome to my profile! I'm a student who loves coding and learning new things. Currently I'm an intern at Salt River Project, one of the primary public utility companies in Arizona . Always looking to be exposed to new languages and projects. Looking forward to grow myself in the year 2024! Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/cesarmirandasan/)!
+Welcome to my profile! I'm a student from the Valley of the Sun (Phoenix, Arizona) 🏜️.
+- :office: Graphic Records Intern at Salt River Project, one of the primary public utility companies in Arizona
+- 👨‍🏫 First Technical Challenge Mentor @ [Si Se Puede Foundation](https://www.sisepuedefoundation.org/)
+- Always looking to be exposed to new languages and projects. Looking forward to grow myself in the year 2024! Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/cesarmirandasan/)!
 
  <!-- Social Media Badges -->
  <div align="center"> 
@@ -19,5 +21,7 @@ Welcome to my profile! I'm a student who loves coding and learning new things. C
   <img alt="snake eating my contributions" src="https://github.com/CodingCZR/CodingCZR/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+ <div align="center">
+    <h2> ⚡ Quick Look ⚡ </h2>
+  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=CodingCzr&show_icons=true&rank_icon=github&theme=transparent"/>
+</div>
