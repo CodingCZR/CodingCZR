@@ -2,7 +2,7 @@
 
 Welcome to my profile! I'm a student from the Valley of the Sun (Phoenix, Arizona) 🏜️.
 - :office: Graphic Records Intern at Salt River Project, one of the primary public utility companies in Arizona
-- 👨‍🏫 First Technical Challenge Mentor @ [Si Se Puede Foundation](https://www.sisepuedefoundation.org/)
+- 👨‍🏫 FIRST Technical Challenge/STEM Mentor @ [Si Se Puede Foundation](https://www.sisepuedefoundation.org/)
 - Always looking to be exposed to new languages and projects. Looking forward to grow myself in the year 2024! Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/cesarmirandasan/)!
 
  <!-- Social Media Badges -->
