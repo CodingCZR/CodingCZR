@@ -12,7 +12,7 @@ Welcome to my profile! I'm a student from the Valley of the Sun (Phoenix, Arizon
   </a>
 </div>
 
- <!-- Snake Action  -->
+ <!-- Snake Action 
  <div align="center">
   <h2> Looking to grow my contributions 🐍 </h2>
   <img alt="snake eating my contributions" src="https://github.com/CodingCZR/CodingCZR/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -22,3 +22,5 @@ Welcome to my profile! I'm a student from the Valley of the Sun (Phoenix, Arizon
     <h2> ⚡ Quick Look ⚡ </h2>
   <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=CodingCzr&show_icons=true&rank_icon=github&theme=transparent"/>
 </div>
+
+ -->
